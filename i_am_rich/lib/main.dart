@@ -8,10 +8,10 @@ void main() => runApp(
             title: Text("I'm Rich"),
             backgroundColor: Colors.blueGrey[900]
           ),
-          backgroundColor: Colors.blueGrey,
+          backgroundColor: Colors.white,
           body: Center(
             child: Image(
-              image: AssetImage(''),
+              image:AssetImage('images/diamond.jpg'),
             ),
           ),
         ),
